@@ -11,8 +11,12 @@
 
 `data`
 
-JSON or Array
+Json stringifible
 
 `initialCollapse`
 
 Boolean
+
+### TODO:
+
+check if the data is valid.
